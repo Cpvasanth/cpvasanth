@@ -59,7 +59,7 @@
 
 <h4 align="center">Blockchain</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" height="48"/>
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" height="48"/>
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" height="48"/>
