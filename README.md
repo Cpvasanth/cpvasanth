@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineer-0D1117?style=for-the-badge&logoColor=white" alt="Software Engineer"/>
+  <img src="https://img.shields.io/badge/Software_Engineer-3B82F6?style=for-the-badge&logoColor=white" alt="Software Engineer"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Blockchain_Developer-0D1117?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer"/>
+  <img src="https://img.shields.io/badge/Blockchain_Developer-8B5CF6?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer"/>
 </p>
 
 <br/>
