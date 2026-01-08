@@ -1,68 +1,137 @@
-# 👋 Hi, I’m Vasa
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              HEADER SECTION                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-**Software Engineer | Blockchain Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=header" width="100%"/>
 
-I build reliable software systems and decentralized applications with a focus on clarity, correctness, and long-term maintainability.  
-My interests sit at the intersection of traditional software engineering and blockchain infrastructure.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=Hey%2C+I'm+Vasa+%F0%9F%91%8B" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineer-0D1117?style=for-the-badge&logoColor=white" alt="Software Engineer"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blockchain_Developer-0D1117?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain Developer"/>
+</p>
 
-## 🧠 About Me
+<br/>
 
-- 💻 Software Engineer with hands-on experience across web and backend systems  
-- ⛓️ Blockchain Developer working with smart contracts and Web3 tooling  
-- 🧩 Interested in system design, security, and scalable architectures  
-- 🚀 I value clean abstractions, readable code, and understanding fundamentals  
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              INTRO SECTION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
----
+<p align="center">
+  <em>Building scalable web applications and decentralized solutions.</em><br/>
+  <em>Passionate about clean architecture, smart contracts, and Web3 innovation.</em>
+</p>
 
-## 🧰 Tech Stack
+<br/>
+<br/>
 
-### Languages
-- JavaScript / TypeScript  
-- Python  
-- Java  
-- Solidity  
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             TECH STACK SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-### Frontend
-- HTML, CSS  
-- React  
+<h2 align="center">Tech Stack</h2>
 
-### Backend
-- Node.js  
-- Express  
+<br/>
 
-### Blockchain
-- Ethereum  
-- Smart Contracts  
-- Web3.js / Ethers.js  
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust" alt="Languages" />
+</p>
 
-### Databases
-- MongoDB  
-- MySQL  
+<br/>
 
-### Tools & Platforms
-- Git & GitHub  
-- Linux  
-- VS Code  
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend" />
+</p>
 
----
+<br/>
 
-## 🌐 Links
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend" />
+</p>
 
-- 🌍 **Website**: https://cpvasanth.github.io  
-- 💼 **Hire me on Upwork**: https://www.upwork.com/freelancers/~your-upwork-id  
-- 🧑‍💼 **LinkedIn**: https://www.linkedin.com/in/your-linkedin-id  
-- 🐦 **X (Twitter)**: https://x.com/your-x-handle  
+<br/>
 
----
+<h4 align="center">Blockchain</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" height="48"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" height="48"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" height="48"/>
+</p>
 
-## 📌 What I Care About
+<br/>
 
-> Good software is not just written — it’s reasoned about.
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" alt="Databases" />
+</p>
 
-I aim to build systems that are understandable, secure, and easy to evolve over time.
+<br/>
 
----
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" alt="Tools" />
+</p>
 
-⭐️ Thanks for visiting my profile.
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                            CURRENT FOCUS SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Current Focus</h2>
+
+<br/>
+
+<p align="center">
+  <strong>Exploring:</strong> Zero-knowledge proofs, Layer 2 scaling solutions, and DeFi protocols<br/>
+  <strong>Building:</strong> Full-stack dApps with seamless UX and robust smart contract architecture<br/>
+  <strong>Learning:</strong> Advanced Rust for blockchain development and Cairo for StarkNet
+</p>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              LINKS SECTION                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">Connect With Me</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://imvasa.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://upwork.com/freelancers/cpvasanthk" target="_blank">
+    <img src="https://img.shields.io/badge/Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/cpvasanth/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/cpvasanth" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+</p>
+
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER SECTION                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
